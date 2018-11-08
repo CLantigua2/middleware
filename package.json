@@ -8,7 +8,7 @@
     "server": "nodemon"
   },
   "keywords": [],
-  "author": "Carlos Lantigua <clantigua954@gmail.com>",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
